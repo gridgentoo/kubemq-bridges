@@ -1,3 +1,6 @@
+Оригинальный репозиторий  
+https://github.com/kubemq-io/kubemq-bridges
+
 # KubeMQ Bridges
 
 KubeMQ Bridges bridge, replicate, aggregate, and transform messages between KubeMQ clusters no matter where they are, allowing to build a true cloud-native messaging single network running globally.
